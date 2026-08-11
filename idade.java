@@ -15,7 +15,7 @@ public class idade {
                 System.out.println("Você é de menor");
             }
             if (idade >= 18 && idade < 60) {
-                System.out.println("Você é de maior");
+                System.out.println("Você é dee maior");
             }
             if (idade >= 60) {
                 System.out.println("Você é velho pra caralho");

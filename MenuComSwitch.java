@@ -38,7 +38,7 @@ public class MenuComSwitch {
             System.out.println("O perimetro do retangulo é: " + perimetro);
             break;
             case 4 : System.out.println( "voce escoleu sair: ");
-            System.out.println("tchauuuuuu.");
+            System.out.println("tchauuuuuuu.");
             break;
         }        
     }

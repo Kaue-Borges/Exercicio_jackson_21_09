@@ -24,7 +24,7 @@ public class Calculadora {
             sc.close();
         } catch (ArithmeticException e) {
  
-            System.out.println("Erro: não é possível dividir por zero.");
+            System.out.println("Erro: não é possível dividirr por zero.");
  
         } catch (Exception e) {
  
