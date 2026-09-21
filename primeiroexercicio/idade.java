@@ -1,3 +1,4 @@
+package primeiroexercicio;
 import java.util.Scanner;
 
 public class idade {
