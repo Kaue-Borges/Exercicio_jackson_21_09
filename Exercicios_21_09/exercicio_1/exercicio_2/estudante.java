@@ -21,9 +21,6 @@ public class estudante {
     }
     public void exibirSituacao() {
         System.out.println("Nome: " + nome);
-        System.out.println("Idade: " + idade);
-        System.out.println("Nota 1: " + nota1);
-        System.out.println("Nota 2: " + nota2);
         System.out.println("Média: " + calcularMedia());
         if (verificarAprovacao()) {
             System.out.println("Situação: Aprovado");
